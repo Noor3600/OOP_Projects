@@ -50,7 +50,7 @@ How to Run
 
 1. Clone the repository:
 
-git clone https://github.com/your-Noor3600/Python-OOP-Assignment.git
+git clone https://github.com/Noor3600/OOP_Projects.git
 
 
 2. Navigate to the project directory:
